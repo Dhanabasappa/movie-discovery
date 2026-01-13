@@ -57,16 +57,16 @@ Create a .env file using the .env.example template with your API keys and config
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page] (screenshots/home.png)
 
 ### Movie Details
-![Movie Details](screenshots/movie_details.png)
+![Movie Details] (screenshots/movie_details.png)
 (screenshots/movie_cast.png),(screenshots/movie_summary.png)
 
 ### Search Results
-![Search Results](screenshots/searched_result.png)
+![Search Results] (screenshots/searched_result.png)
 
 ### wishlist
-![wishlist](screenshots/wishlist.png) , (screenshots/darkmode.png)
+![wishlist] (screenshots/wishlist.png) , (screenshots/darkmode.png)
 
 
