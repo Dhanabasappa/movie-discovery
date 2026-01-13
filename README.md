@@ -19,12 +19,19 @@ A movie discovery application built using React and Vite.  This project focuses 
 
 ## 📂 Project Structure
 src/
+
 ├── api/ # API integration and calls
+
 ├── components/ # Reusable UI components
+
 ├── pages/ # Application pages
+
 ├── context/ # Global state management
+
 ├── hooks/ # Custom React hooks
+
 ├── index.css # Global styles
+
 └── main.jsx # Entry point
 
 ## ⚙️ Setup & Installation
